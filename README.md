@@ -33,12 +33,13 @@ bash
 Copy code
 ./mvnw spring-boot:run
 The application will start on http://localhost:8080.
+```
 
-🧪 API Endpoints
+## 🧪 API Endpoints
 GET /api/test: Returns a test message.
 
-🧹 Clean Up
+## 🧹 Clean Up
 Stop the application by pressing Ctrl+C in your terminal.
 
-🛠️ Development
+## 🛠️ Development
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
