@@ -36,7 +36,8 @@ The application will start on http://localhost:8080.
 ```
 
 ## 🧪 API Endpoints
-GET /api/test: Returns a test message.
+GET /test: Returns a test message.
+POST /test: Converts JSON data and filters it.(You can test this in Postman.Submit JSON data only)
 
 ## 🧹 Clean Up
 Stop the application by pressing Ctrl+C in your terminal.
